@@ -1,3 +1,4 @@
+<?php
 function distanceCalculation($point1_lat, $point1_long, $point2_lat, $point2_long, $unit = 'km', $decimals = 0) 
          {
 

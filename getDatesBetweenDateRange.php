@@ -1,3 +1,4 @@
+<?php
 function getDatesFromRange($first, $last, $step = '+1 day', $format = 'Y-m-d' ) {
       $dates = array();
       $current = strtotime($first);
